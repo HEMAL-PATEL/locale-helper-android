@@ -19,7 +19,7 @@ class MainActivity : BaseActivity() {
         toTRButton.setOnClickListener { updateLocale(Locales.Turkish) }
         toENButton.setOnClickListener { updateLocale(Locale.ENGLISH) }
         toCNButton.setOnClickListener { updateLocale(Locale.CHINA) }
-        toURButton.setOnClickListener { updateLocale(Locales.Urdu) }
+        toURButton.setOnClickListener { updateLocale(Locales.Arabic) }
 
         secondButton.setOnClickListener { startActivity(Intent(this, SecondActivity::class.java)) }
     }

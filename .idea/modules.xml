@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/locale-helper-android.iml" filepath="$PROJECT_DIR$/.idea/locale-helper-android.iml" />
       <module fileurl="file://$PROJECT_DIR$/locale-helper-android.iml" filepath="$PROJECT_DIR$/locale-helper-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/localehelper/localehelper.iml" filepath="$PROJECT_DIR$/localehelper/localehelper.iml" />
       <module fileurl="file://$PROJECT_DIR$/localehelper/localehelper.iml" filepath="$PROJECT_DIR$/localehelper/localehelper.iml" />
     </modules>
   </component>

@@ -8,6 +8,7 @@ object Locales {
     val Polish: Locale by lazy { Locale("pl", "PL") }
     val Hindi: Locale by lazy { Locale("hi", "IN") }
     val Urdu: Locale by lazy { Locale("ur", "IN") }
+    val Arabic: Locale by lazy { Locale("ar", "AR") }
 
     val RTL: Set<String> by lazy {
         hashSetOf(
